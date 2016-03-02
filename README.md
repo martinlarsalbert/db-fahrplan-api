@@ -1,10 +1,10 @@
 # DB Fahrplan API
 
-Dieses Repository enthält [Swagger](http://swagger.io/specification/)/[OpenAPI](https://github.com/OAI/OpenAPI-Specification) Spezifikation für die [Deutsche Bahn Fahrplan API](http://data.deutschebahn.com/apis/fahrplan/):
+Dieses Repository enthÃ¤lt [Swagger](http://swagger.io/specification/)/[OpenAPI](https://github.com/OAI/OpenAPI-Specification) Spezifikation fÃ¼r die [Deutsche Bahn Fahrplan API](http://data.deutschebahn.com/apis/fahrplan/):
 
-* [db-fahrplan-api-specification.yaml](https://github.com/dbopendata/db-fahrplan-api/blob/master/db-fahrplan-api-specification.yaml)
+* [db-fahrplan-api-specification.yaml](https://github.com/dbopendata/db-fahrplan-api/blob/master/db-fahrplan-api-specification.yaml), see also in  [Swagger Editor](editor.swagger.io/#/?import=https://github.com/dbopendata/db-fahrplan-api/blob/master/db-fahrplan-api-specification.yaml)
 
-Des weiteren, es dient auch dazu, die [Issues](https://github.com/dbopendata/db-fahrplan-api/issues) und [Pull Requests](https://github.com/dbopendata/db-fahrplan-api/pulls) für die [Deutsche Bahn Fahrplan API](http://data.deutschebahn.com/apis/fahrplan/) zu tracken.
+Des weiteren, es dient auch dazu, die [Issues](https://github.com/dbopendata/db-fahrplan-api/issues) und [Pull Requests](https://github.com/dbopendata/db-fahrplan-api/pulls) fÃ¼r die [Deutsche Bahn Fahrplan API](http://data.deutschebahn.com/apis/fahrplan/) zu tracken.
 
 # Lizenz
 

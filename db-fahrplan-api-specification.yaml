@@ -3,12 +3,12 @@ info:
   version: "1"
   title: DB Fahrplan API
   description: Deutsche Bahn Fahrplan API
-  termsOfService: 'http://data.deutschebahn.com/nutzungsbedingungen.html'
+  termsOfService: 'http://data.deutschebahn.com/apis/fahrplan/'
   contact:
-    name: Michael Binzen
-    email: michael.binzen@deutschebahn.com
+    name: DB Open Data
+    email: DBOpenData@deutschebahn.com
 schemes:
-  - http
+  - https
 host: open-api.bahn.de
 basePath: /bin/rest.exe
 consumes:

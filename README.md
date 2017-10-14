@@ -9,3 +9,6 @@ Des weiteren, es dient auch dazu, die [Issues](https://github.com/dbopendata/db-
 # Lizenz
 
 Die Daten und die Spezifikation dieser API werden bereitgestellt unter der Lizenz [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+# Examples
+* https://github.com/martinlarsalbert/TrainMap/blob/master/1st_attempt_deutsche_bahn_API.ipynb
